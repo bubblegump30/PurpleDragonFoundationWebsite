@@ -37,7 +37,7 @@ The official production website is hosted with OpenAI Sites and connected to the
 ## Contact
 
 Kyle Austin Hillier  
-Email: [kylehillier323@live.ca](mailto:kylehillier323@live.ca)
+Email: [kyle@purpledragonfoundationltd.xyz](mailto:kyle@purpledragonfoundationltd.xyz)
 
 ## Author
 
