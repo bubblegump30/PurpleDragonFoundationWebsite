@@ -29,7 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
   if (event.key === 'Escape' && mobile.matches) { expanded(false); toggle.focus(); }
  });
  nav.addEventListener('click', event => { if (mobile.matches && event.target.closest('a')) expanded(false); });
- const page = location.pathname.split('/').pop() || 'index.html';
+ const segment = location.pathname.split('/').pop() || 'index.html';
+ const page = segment.includes('.') ? segment : segment + '.html';
  for (const link of nav.querySelectorAll('a')) {
   if (link.getAttribute('href') === page) link.setAttribute('aria-current', 'page');
  }
