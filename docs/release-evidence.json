@@ -1,0 +1,325 @@
+{
+  "reviewed": "2026-11-12",
+  "repositories": [
+    {
+      "repository": "https://github.com/bubblegump30/DragonStrap",
+      "releases": [
+        {
+          "tag": "v2.7.0",
+          "prerelease": false,
+          "published": "2026-11-09T02:29:53Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.7.0",
+          "assets": [
+            "Accounts-System-Preview.png",
+            "DragonStrap-FastFolder-2.7.0-x64.zip",
+            "DragonStrap-Portable-2.7.0-x64.exe",
+            "DragonStrap-Setup-2.7.0-x64.exe",
+            "DragonStrap-v2.7.0-Source.zip",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.6.1",
+          "prerelease": false,
+          "published": "2026-11-08T10:05:40Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.6.1",
+          "assets": [
+            "DragonStrap-FastFolder-2.6.1-x64.zip",
+            "DragonStrap-Portable-2.6.1-x64.exe",
+            "DragonStrap-Setup-2.6.1-x64.exe",
+            "DragonStrap-v2.6.1-Source.zip",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.6.0",
+          "prerelease": false,
+          "published": "2026-11-08T07:22:18Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.6.0",
+          "assets": [
+            "DragonStrap-FastFolder-2.6.0-x64.zip",
+            "DragonStrap-Portable-2.6.0-x64.exe",
+            "DragonStrap-Setup-2.6.0-x64.exe",
+            "DragonStrap-v2.6.0-Source.zip",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.5.1",
+          "prerelease": false,
+          "published": "2026-11-08T06:41:25Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.5.1",
+          "assets": [
+            "DragonStrap-FastFolder-2.5.1-x64.zip",
+            "DragonStrap-Portable-2.5.1-x64.exe",
+            "DragonStrap-Setup-2.5.1-x64.exe",
+            "DragonStrap-v2.5.1-Source.zip",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.5.0",
+          "prerelease": false,
+          "published": "2026-11-08T06:17:20Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.5.0",
+          "assets": [
+            "DragonStrap-FastFolder-2.5.0-x64.zip",
+            "DragonStrap-Portable-2.5.0-x64.exe",
+            "DragonStrap-Setup-2.5.0-x64.exe",
+            "DragonStrap-v2.5.0-Source.zip",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.5.0-preview.6",
+          "prerelease": true,
+          "published": "2026-11-08T06:02:58Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.5.0-preview.6",
+          "assets": [
+            "DragonStrap-FastFolder-2.5.0-preview.6-x64.zip",
+            "DragonStrap-Portable-2.5.0-preview.6-x64.exe",
+            "DragonStrap-Setup-2.5.0-preview.6-x64.exe",
+            "DragonStrap-v2.5.0-preview.6-Source.zip",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.4.1",
+          "prerelease": false,
+          "published": "2026-10-03T00:12:43Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.4.1",
+          "assets": [
+            "DragonStrap-Portable-2.4.1-x64.exe",
+            "DragonStrap-Setup-2.4.1-x64.exe",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.4.0",
+          "prerelease": false,
+          "published": "2026-10-01T22:20:04Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.4.0",
+          "assets": [
+            "DragonStrap-Portable-2.4.0-x64.exe",
+            "DragonStrap-Setup-2.4.0-x64.exe",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.3.3",
+          "prerelease": false,
+          "published": "2026-09-28T10:40:22Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.3.3",
+          "assets": [
+            "DragonStrap-Portable-2.3.3-x64.exe",
+            "DragonStrap-Setup-2.3.3-x64.exe",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.0.4",
+          "prerelease": false,
+          "published": "2026-09-20T22:45:38Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v2.0.4",
+          "assets": [
+            "DragonStrap-Portable-2.0.4-x64.exe",
+            "DragonStrap-Setup-2.0.4-x64.exe",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v1.0.0",
+          "prerelease": false,
+          "published": "2026-09-19T16:52:29Z",
+          "url": "https://github.com/bubblegump30/DragonStrap/releases/tag/v1.0.0",
+          "assets": [
+            "DragonStrap-Portable-1.0.0-x64.exe",
+            "DragonStrap-Setup-1.0.0-x64.exe",
+            "SHA256SUMS.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "https://github.com/bubblegump30/BIOSViewer",
+      "releases": [
+        {
+          "tag": "v1.0.0",
+          "prerelease": false,
+          "published": "2026-10-25T01:17:13Z",
+          "url": "https://github.com/bubblegump30/BIOSViewer/releases/tag/v1.0.0",
+          "assets": [
+            "BIOSViewer-v1.0.0.zip",
+            "BIOSViewer-v1.0.0.zip.sha256"
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "https://github.com/bubblegump30/DiscordPowerTools",
+      "releases": []
+    },
+    {
+      "repository": "https://github.com/bubblegump30/PurpleDragonPowerTools",
+      "releases": [
+        {
+          "tag": "v2.5.2",
+          "prerelease": false,
+          "published": "2026-10-09T03:34:57Z",
+          "url": "https://github.com/bubblegump30/PurpleDragonPowerTools/releases/tag/v2.5.2",
+          "assets": [
+            "Purple-Dragon-PowerTools-Portable-2.5.2-x64.exe",
+            "Purple-Dragon-PowerTools-Setup-2.5.2-x64.exe",
+            "release-manifest.json",
+            "release-manifest.json.sig",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.5.1",
+          "prerelease": false,
+          "published": "2026-10-09T03:24:12Z",
+          "url": "https://github.com/bubblegump30/PurpleDragonPowerTools/releases/tag/v2.5.1",
+          "assets": [
+            "Purple-Dragon-PowerTools-Portable-2.5.1-x64.exe",
+            "Purple-Dragon-PowerTools-Setup-2.5.1-x64.exe",
+            "release-manifest.json",
+            "release-manifest.json.sig",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.5.0",
+          "prerelease": false,
+          "published": "2026-10-09T02:59:27Z",
+          "url": "https://github.com/bubblegump30/PurpleDragonPowerTools/releases/tag/v2.5.0",
+          "assets": [
+            "Purple-Dragon-PowerTools-Portable-2.5.0-x64.exe",
+            "Purple-Dragon-PowerTools-Setup-2.5.0-x64.exe",
+            "release-manifest.json",
+            "release-manifest.json.sig",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.2.0",
+          "prerelease": false,
+          "published": "2026-09-18T02:45:42Z",
+          "url": "https://github.com/bubblegump30/PurpleDragonPowerTools/releases/tag/v2.2.0",
+          "assets": [
+            "Purple-Dragon-PowerTools-Portable-2.2.0-x64.exe",
+            "Purple-Dragon-PowerTools-Setup-2.2.0-x64.exe",
+            "release-manifest.json",
+            "release-manifest.json.sig",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.1.0",
+          "prerelease": false,
+          "published": "2026-09-18T00:52:58Z",
+          "url": "https://github.com/bubblegump30/PurpleDragonPowerTools/releases/tag/v2.1.0",
+          "assets": [
+            "Purple-Dragon-PowerTools-Portable-2.1.0-x64.exe",
+            "Purple-Dragon-PowerTools-Setup-2.1.0-x64.exe",
+            "SHA256SUMS.txt"
+          ]
+        },
+        {
+          "tag": "v2.1.0-rc.1",
+          "prerelease": true,
+          "published": "2026-09-17T23:53:20Z",
+          "url": "https://github.com/bubblegump30/PurpleDragonPowerTools/releases/tag/v2.1.0-rc.1",
+          "assets": [
+            "Purple-Dragon-PowerTools-Portable-2.1.0-x64.exe",
+            "Purple-Dragon-PowerTools-Setup-2.1.0-x64.exe",
+            "SHA256SUMS.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "https://github.com/bubblegump30/PurpleDragonFlipperStudio",
+      "releases": [
+        {
+          "tag": "v1.0.2",
+          "prerelease": false,
+          "published": "2026-10-16T15:57:05Z",
+          "url": "https://github.com/bubblegump30/PurpleDragonFlipperStudio/releases/tag/v1.0.2",
+          "assets": [
+            "PurpleDragonFlipperStudio-v1.0.2-Source.zip",
+            "PurpleDragonFlipperStudio-v1.0.2-Windows-x64.zip"
+          ]
+        },
+        {
+          "tag": "v0.3.0",
+          "prerelease": false,
+          "published": "2026-09-30T09:02:58Z",
+          "url": "https://github.com/bubblegump30/PurpleDragonFlipperStudio/releases/tag/v0.3.0",
+          "assets": [
+            "PurpleDragonFlipperStudio-v0.3.0-Windows-x64.zip"
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "https://github.com/bubblegump30/PurpleDragonGIFStudio",
+      "releases": []
+    },
+    {
+      "repository": "https://github.com/bubblegump30/bitcoin-miner-studio",
+      "releases": [
+        {
+          "tag": "v2.0.3",
+          "prerelease": false,
+          "published": "2026-09-28T03:53:13Z",
+          "url": "https://github.com/bubblegump30/bitcoin-miner-studio/releases/tag/v2.0.3",
+          "assets": [
+            "BitcoinMinerStudio-v2.0.3-Windows-x64.zip",
+            "SHA256SUMS-Windows.txt"
+          ]
+        },
+        {
+          "tag": "v2.0.2",
+          "prerelease": false,
+          "published": "2026-10-01T22:34:21Z",
+          "url": "https://github.com/bubblegump30/bitcoin-miner-studio/releases/tag/v2.0.2",
+          "assets": [
+            "BitcoinMinerStudio-v2.0.2-Windows-x64.zip",
+            "SHA256SUMS-Windows.txt"
+          ]
+        },
+        {
+          "tag": "v2.0.1",
+          "prerelease": false,
+          "published": "2026-09-10T01:05:34Z",
+          "url": "https://github.com/bubblegump30/bitcoin-miner-studio/releases/tag/v2.0.1",
+          "assets": [
+            "BitcoinMinerStudio-v2.0.1-Windows-x64.zip",
+            "BitcoinMinerStudio-Windows-build.json",
+            "SHA256SUMS-Windows.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "https://github.com/bubblegump30/PurpleDragonAIAgent",
+      "releases": []
+    },
+    {
+      "repository": "https://github.com/bubblegump30/RobloxCleanerLite",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "prerelease": true,
+          "published": "2026-10-03T23:31:15Z",
+          "url": "https://github.com/bubblegump30/RobloxCleanerLite/releases/tag/v0.2.0",
+          "assets": [
+            "RobloxCleanerLite-v0.2.0-Windows.zip",
+            "RobloxCleanerLite-v0.2.0-Windows.zip.sha256"
+          ]
+        }
+      ]
+    }
+  ]
+}

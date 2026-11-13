@@ -1,44 +1,32 @@
-# Purple Dragon Foundation Website
+# Purple Dragon Foundation website
 
-Official website for **Purple Dragon Foundation Ltd** and the software portfolio of **Kyle Austin Hillier**.
+Production: https://www.purpledragonfoundationltd.xyz/
 
-## Live website
+The website is a buildless, static HTML/CSS/JavaScript portfolio. `dist/` contains all public pages and assets. `site.css` contains shared styles, `theme.js` applies the saved palette before paint, and `site.js` handles seasonal decorations and accessible mobile navigation. No framework, npm installation, third-party font, or client API is required.
 
-[www.purpledragonfoundationltd.xyz](https://www.purpledragonfoundationltd.xyz/)
+## Local preview and checks
 
-## About
+```powershell
+python scripts/check-site.py
+node --check dist/theme.js
+node --check dist/site.js
+python -m http.server 8766 --bind 127.0.0.1 --directory dist
+```
 
-This portfolio showcases Windows software, browser PowerTools, automation, AI workflows, music, experimental technology, current releases, and upcoming projects from Purple Dragon Foundation Ltd.
+Open http://127.0.0.1:8766/ . Test narrow, tablet, and desktop layouts, navigation with a keyboard, theme persistence, and project links before publication. If shared assets change, update their query version in every page.
 
-## Featured work
+## Source and deployment
 
-- Purple Dragon Flipper Studio
-- DragonStrap
-- Purple Dragon PowerTools
-- Bitcoin Miner Studio
-- Roblox Game Studio AI
-- PhishGuard Local
-- Purple Dragon Creator Studio
-- Orbit Crypto Portfolio Tracker
-- Greasy Fork userscripts
+`.openai/hosting.json` preserves the existing Sites project identity and serves `dist/`. OpenAI Sites is the production host; the custom domain is already attached to that project. The public GitHub repository is a source mirror and review location. A GitHub push alone does not publish this site, and there is no GitHub Actions deployment workflow in this repository.
 
-## Project structure
+To publish, open the same Sites project's source repository using the Sites workflow, reconcile any later edits from ChatGPT Sites, validate the exact source, commit and push that source to the Sites repository, package the matching static files, save a Sites version with that commit and archive, then deploy the saved version. Keep the current public audience and existing project ID. Verify the returned deployment status and domain after publication. Never deploy an older GitHub snapshot over newer Sites content.
 
-- `index.html` — complete static website
-- `brand.png` — main Purple Dragon visual
-- `.openai/hosting.json` — OpenAI Sites hosting configuration
+The November 12 reconciliation started from Sites version 28, commit `5f6055150449293bfc7bd8e624f4d8641f099cb6`, rather than the older GitHub main snapshot `baf1bd037deb92db3e1e5447a686d555e5a45333`. Dated backups of both were created before editing. Version 28 remains available for rollback through Sites history. Public response backups may include host-injected Cloudflare scripts; these are excluded from authored source.
 
-## Deployment
+## Content maintenance
 
-The official production website is hosted with OpenAI Sites and connected to the custom domain:
+Release metadata reviewed November 12, 2026 is recorded in `docs/release-evidence.json`. Published, non-draft GitHub releases determine stable/prerelease labels. README versions can lag published releases; PowerTools is one such case. Source-only distributions are labeled separately. Development summaries without a public release remain in development, and no new availability is inferred from a feature description.
 
-**https://www.purpledragonfoundationltd.xyz/**
+Keep company contact `kyle@purpledragonfoundationltd.xyz`, the music/community destinations, the Neo Purple design, all seven color palettes and five holiday themes. IDENTITIES for Android was canceled and must remain absent. The separate IDENTITIES community website and browser userscript are retained.
 
-## Contact
-
-Kyle Austin Hillier  
-Email: [kyle@purpledragonfoundationltd.xyz](mailto:kyle@purpledragonfoundationltd.xyz)
-
-## Author
-
-Created by [KyleAustinHillier](https://github.com/bubblegump30) under Purple Dragon Foundation Ltd.
+The existing iHeartRadio artist URL returned HTTP 404 on November 12; it is retained with an availability note. Other external destinations returned successful HTTP responses, which establish reachability rather than sign-in, playback, invite acceptance, or installer safety.
