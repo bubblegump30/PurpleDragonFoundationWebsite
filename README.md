@@ -30,3 +30,16 @@ Release metadata reviewed November 12, 2026 is recorded in `docs/release-evidenc
 Keep company contact `kyle@purpledragonfoundationltd.xyz`, the music/community destinations, the Neo Purple design, all seven color palettes and five holiday themes. IDENTITIES for Android was canceled and must remain absent. The separate IDENTITIES community website and browser userscript are retained.
 
 The existing iHeartRadio artist URL returned HTTP 404 on November 12; it is retained with an availability note. Other external destinations returned successful HTTP responses, which establish reachability rather than sign-in, playback, invite acceptance, or installer safety.
+
+## Community, support, and licensing
+
+- [Contributing](CONTRIBUTING.md) — setup, validation, content, and publication guidance.
+- [Code of conduct](CODE_OF_CONDUCT.md) — participation and private conduct reporting.
+- [Security policy](SECURITY.md) — private vulnerability reporting.
+- [Accessibility statement](ACCESSIBILITY.md) — supported behavior, verification, and known limits.
+- [MIT license](LICENSE) — original website code and technical documentation.
+- [Asset licensing](ASSET-LICENSING.md) — artwork, music, screenshots, and branding exclusions.
+
+Use the repository issue templates for website bugs, feature requests, and
+accessibility barriers. For general inquiries, email
+[kyle@purpledragonfoundationltd.xyz](mailto:kyle@purpledragonfoundationltd.xyz).

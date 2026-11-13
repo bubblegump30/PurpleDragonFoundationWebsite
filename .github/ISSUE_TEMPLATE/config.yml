@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability privately
+    url: https://github.com/bubblegump30/PurpleDragonFoundationWebsite/blob/main/SECURITY.md
+    about: Read the private reporting instructions; do not post vulnerabilities publicly.
+  - name: Software project support
+    url: https://www.purpledragonfoundationltd.xyz/projects.html
+    about: Find the relevant software repository for product-specific questions.
