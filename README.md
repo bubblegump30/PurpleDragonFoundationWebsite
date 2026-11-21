@@ -43,3 +43,11 @@ The existing iHeartRadio artist URL returned HTTP 404 on November 12; it is reta
 Use the repository issue templates for website bugs, feature requests, and
 accessibility barriers. For general inquiries, email
 [kyle@purpledragonfoundationltd.xyz](mailto:kyle@purpledragonfoundationltd.xyz).
+
+## November 21 project and QoL update
+
+The current catalogue adds GitHub Plus Maintained and separates community forks
+from original software. Bitcoin Miner Studio links to its published Workspace
+QoL build. Projects and Downloads provide local search and category/status
+filters with shareable URLs. See [the update notes](docs/UPDATE-2026-11-21.md)
+and [current release evidence](docs/release-evidence-2026-11-21.json).
